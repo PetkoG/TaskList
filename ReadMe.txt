@@ -1,0 +1,1 @@
+The application interface is straightfoward. User is presented with home screen and navigation menu with 3 options: Home takes him to main screen, Tasks views the list of tasks, Add Task presents a validated form for adding a task. Note that in order to nest a task in the tree view properly, the correct parent task ID must be selected(1-8 available initially).
